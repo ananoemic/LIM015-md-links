@@ -26,6 +26,6 @@
     "jest": "^27.0.6"
   },
   "dependencies": {
-    "@laboratoria/curriculum-parser": "github:Laboratoria/course-parser"
+    "node-fetch": "^2.6.5"
   }
 }
